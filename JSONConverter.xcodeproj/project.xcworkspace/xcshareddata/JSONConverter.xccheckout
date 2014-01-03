@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>34D2F76A-6DD4-463A-BF97-1AA99FB1D2F9</string>
+	<string>9A2CDBBC-E601-4779-A639-CD14E071C0D2</string>
 	<key>IDESourceControlProjectName</key>
 	<string>JSONConverter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>6B3DBA5B-938C-4B96-86F2-327DC067500C</key>
-		<string>ssh://MYMAC010.local/git/masrinas-jsongrouper.git</string>
+		<key>BDB682B9-5E73-452D-A544-8FE944CF9373</key>
+		<string>ssh://github.com/masrina/jsonconverter-test.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>JSONConverter.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6B3DBA5B-938C-4B96-86F2-327DC067500C</key>
+		<key>BDB682B9-5E73-452D-A544-8FE944CF9373</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://MYMAC010.local/git/masrinas-jsongrouper.git</string>
+	<string>ssh://github.com/masrina/jsonconverter-test.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6B3DBA5B-938C-4B96-86F2-327DC067500C</string>
+	<string>BDB682B9-5E73-452D-A544-8FE944CF9373</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6B3DBA5B-938C-4B96-86F2-327DC067500C</string>
+			<string>BDB682B9-5E73-452D-A544-8FE944CF9373</string>
 			<key>IDESourceControlWCCName</key>
-			<string>masrinas-jsongrouper</string>
+			<string>jsonconverter-test</string>
 		</dict>
 	</array>
 </dict>

@@ -88,7 +88,7 @@
          *  The First Dictionary Data must be "Bali"
          */
         NSDictionary *firstDictionary = [provinceArray objectAtIndex:0];
-        XCTAssertEqualObjects([firstDictionary objectForKey:@"desc"], @"Kuala Lumpur", @"The First Description data must be bali");
+        XCTAssertEqualObjects([firstDictionary objectForKey:@"desc"], @"Cyberjaya", @"The First Description data must be bali");
         
         
     } failed:^(NSError *error) {
