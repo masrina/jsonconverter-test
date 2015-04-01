@@ -221,7 +221,7 @@
         
         [[JSONConverter sharedInstance] setDictionary:responseObject];
         BOOL success = [[JSONConverter sharedInstance] writeDictionary:DictionaryTypeDistrict];
-        XCTAssertTrue(success, @"Failed to write district dictionary plist file");
+        XCTAssertTrue(success, @"Error: Failed to write district dictionary plist file");
         
         
     } failed:^(NSError *error) {
